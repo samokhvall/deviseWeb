@@ -7,3 +7,4 @@ require "devise/version"
 Gem::Specification.new do |s|
   s.name        = "devise"
   s.version     = Devise::VERSION.dup
+  s.platform    = Gem::Platform::RUBY
