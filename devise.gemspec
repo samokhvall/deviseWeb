@@ -10,3 +10,4 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ["MIT"]
   s.summary     = "Flexible authentication solution for Rails with Warden"
+  s.email       = "heartcombo@googlegroups.com"
