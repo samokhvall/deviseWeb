@@ -12,3 +12,5 @@ Gem::Specification.new do |s|
   s.summary     = "Flexible authentication solution for Rails with Warden"
   s.email       = "heartcombo@googlegroups.com"
   s.homepage    = "https://github.com/heartcombo/devise"
+  s.description = "Flexible authentication solution for Rails with Warden"
+  s.authors     = ['José Valim', 'Carlos Antônio']
