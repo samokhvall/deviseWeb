@@ -15,3 +15,5 @@ Gem::Specification.new do |s|
   s.description = "Flexible authentication solution for Rails with Warden"
   s.authors     = ['José Valim', 'Carlos Antônio']
   s.metadata    = {
+ "homepage_uri"      => "https://github.com/heartcombo/devise",
+    "documentation_uri" => "https://rubydoc.info/github/heartcombo/devise",
