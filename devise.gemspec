@@ -22,3 +22,5 @@ Gem::Specification.new do |s|
     "bug_tracker_uri"   => "https://github.com/heartcombo/devise/issues",
     "wiki_uri"          => "https://github.com/heartcombo/devise/wiki"
   }
+
+  s.files         = Dir["{app,config,lib}/**/*", "CHANGELOG.md", "MIT-LICENSE", "README.md"]
