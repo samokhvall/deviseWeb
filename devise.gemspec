@@ -32,3 +32,5 @@ Gem::Specification.new do |s|
   s.add_dependency("bcrypt", "~> 3.0")
   s.add_dependency("railties", ">= 4.1.0")
   s.add_dependency("responders")
+
+  s.post_install_message = %q{
