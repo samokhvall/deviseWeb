@@ -34,3 +34,4 @@ Gem::Specification.new do |s|
   s.add_dependency("responders")
 
   s.post_install_message = %q{
+[DEVISE] Please review the [changelog] and [upgrade guide] for more info on Hotwire / Turbo integration.
