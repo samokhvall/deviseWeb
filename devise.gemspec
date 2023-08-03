@@ -37,3 +37,6 @@ Gem::Specification.new do |s|
 [DEVISE] Please review the [changelog] and [upgrade guide] for more info on Hotwire / Turbo integration.
 
   [changelog] https://github.com/heartcombo/devise/blob/main/CHANGELOG.md
+  [upgrade guide] https://github.com/heartcombo/devise/wiki/How-To:-Upgrade-to-Devise-4.9.0-%5BHotwire-Turbo-integration%5D
+  }
+end
