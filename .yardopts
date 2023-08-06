@@ -3,3 +3,6 @@
 --embed-mixin ClassMethods
 -
 README.md
+CHANGELOG.rdoc
+CONTRIBUTING.md
+MIT-LICENSE
