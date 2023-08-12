@@ -8,3 +8,5 @@ gem "rails", "~> 7.0.0"
 gem "omniauth"
 gem "omniauth-oauth2"
 gem "rdoc"
+
+gem "rails-controller-testing", github: "rails/rails-controller-testing"
