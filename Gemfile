@@ -12,3 +12,5 @@ gem "rdoc"
 gem "rails-controller-testing", github: "rails/rails-controller-testing"
 
 gem "responders", "~> 3.1"
+
+group :test do
