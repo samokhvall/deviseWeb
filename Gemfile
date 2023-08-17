@@ -16,3 +16,5 @@ gem "responders", "~> 3.1"
 group :test do
   gem "omniauth-facebook"
   gem "omniauth-openid"
+  gem "rexml"
+  gem "timecop"
