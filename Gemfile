@@ -18,3 +18,4 @@ group :test do
   gem "omniauth-openid"
   gem "rexml"
   gem "timecop"
+  gem "webrat", "0.7.3", require: false
