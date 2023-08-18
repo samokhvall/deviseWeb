@@ -19,3 +19,4 @@ group :test do
   gem "rexml"
   gem "timecop"
   gem "webrat", "0.7.3", require: false
+  gem "mocha", "~> 1.1", require: false
