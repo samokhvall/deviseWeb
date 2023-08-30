@@ -33,3 +33,4 @@ end
 # end
 
 # TODO:
+# group :mongoid do
