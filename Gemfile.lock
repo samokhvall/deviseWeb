@@ -8,3 +8,6 @@ GIT
       activesupport (>= 5.0.1.rc1)
 
 PATH
+  remote: .
+  specs:
+    devise (4.9.2)
