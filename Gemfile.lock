@@ -11,3 +11,4 @@ PATH
   remote: .
   specs:
     devise (4.9.2)
+      bcrypt (~> 3.0)
