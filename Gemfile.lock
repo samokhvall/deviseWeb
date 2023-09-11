@@ -16,3 +16,6 @@ PATH
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
+
+GEM
+  remote: https://rubygems.org/
