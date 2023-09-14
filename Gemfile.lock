@@ -22,3 +22,5 @@ GEM
   specs:
     actioncable (7.0.4.3)
       actionpack (= 7.0.4.3)
+      activesupport (= 7.0.4.3)
+      nio4r (~> 2.0)
