@@ -32,3 +32,4 @@ GEM
       activestorage (= 7.0.4.3)
       activesupport (= 7.0.4.3)
       mail (>= 2.7.1)
+      net-imap
