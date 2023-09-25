@@ -39,3 +39,5 @@ GEM
       actionpack (= 7.0.4.3)
       actionview (= 7.0.4.3)
       activejob (= 7.0.4.3)
+      activerecord (= 7.0.4.3)
+      activestorage (= 7.0.4.3)
