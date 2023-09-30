@@ -48,3 +48,5 @@ GEM
       net-smtp
     actionmailer (7.0.4.3)
       actionpack (= 7.0.4.3)
+      actionview (= 7.0.4.3)
+      activejob (= 7.0.4.3)
