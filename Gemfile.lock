@@ -57,3 +57,5 @@ GEM
       net-smtp
       rails-dom-testing (~> 2.0)
     actionpack (7.0.4.3)
+      actionview (= 7.0.4.3)
+      activesupport (= 7.0.4.3)
