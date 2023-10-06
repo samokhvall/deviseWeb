@@ -59,3 +59,5 @@ GEM
     actionpack (7.0.4.3)
       actionview (= 7.0.4.3)
       activesupport (= 7.0.4.3)
+      rack (~> 2.0, >= 2.2.0)
+      rack-test (>= 0.6.3)
