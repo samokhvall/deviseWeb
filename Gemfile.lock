@@ -66,3 +66,4 @@ GEM
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.2.0)
     actiontext (7.0.4.3)
+      actionpack (= 7.0.4.3)
