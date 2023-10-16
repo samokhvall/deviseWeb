@@ -72,3 +72,4 @@ GEM
       activesupport (= 7.0.4.3)
       globalid (>= 0.6.0)
       nokogiri (>= 1.8.5)
+    actionview (7.0.4.3)
