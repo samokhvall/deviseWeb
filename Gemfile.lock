@@ -76,3 +76,4 @@ GEM
       activesupport (= 7.0.4.3)
       builder (~> 3.1)
       erubi (~> 1.4)
+      rails-dom-testing (~> 2.0)
