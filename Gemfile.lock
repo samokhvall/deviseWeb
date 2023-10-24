@@ -85,3 +85,5 @@ GEM
       activesupport (= 7.0.4.3)
     activerecord (7.0.4.3)
       activemodel (= 7.0.4.3)
+      activesupport (= 7.0.4.3)
+    activestorage (7.0.4.3)
