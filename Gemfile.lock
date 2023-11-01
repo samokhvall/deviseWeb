@@ -96,3 +96,5 @@ GEM
       net-imap
       net-pop
       net-smtp
+    actionmailer (7.0.4.3)
+      actionpack (= 7.0.4.3)
