@@ -120,3 +120,5 @@ GEM
       activesupport (= 7.0.4.3)
       mail (>= 2.7.1)
       net-imap
+      net-pop
+      net-smtp
