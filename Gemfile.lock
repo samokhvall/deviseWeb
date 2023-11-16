@@ -126,3 +126,5 @@ GEM
       actionpack (= 7.0.4.3)
       actionview (= 7.0.4.3)
       activejob (= 7.0.4.3)
+      activesupport (= 7.0.4.3)
+      mail (~> 2.5, >= 2.5.4)
