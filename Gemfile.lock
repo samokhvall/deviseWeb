@@ -147,3 +147,5 @@ GEM
       mail (>= 2.7.1)
       net-imap
       net-pop
+      net-smtp
+    actionmailer (7.0.4.3)
